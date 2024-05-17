@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasleen Kaur</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<h1 align ="center"><img   alt="Coding" width="400" placeholder="coderrr" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif"></h1>
+<img   alt="Coding" width="400" placeholder="coderrr" align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif"/>
 
 
 
