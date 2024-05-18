@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasleen Kaur</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<h1 align="center"><img alt="Coding" width="800" height="400" src="https://camo.githubusercontent.com/0c060afa37cfa1bf8727193f9298b4c75dcb73d7ee29663e43089e17a685a04d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966"></h1>
+<h1 align="center"><img alt="Coding" width="400" src="https://camo.githubusercontent.com/0c060afa37cfa1bf8727193f9298b4c75dcb73d7ee29663e43089e17a685a04d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966"></h1>
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
