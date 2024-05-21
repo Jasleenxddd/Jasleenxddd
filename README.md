@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
-- 💬 Ask me about **html, css, javascript, react**
+- 💬 Ask me about **html, CSS, javascript, typescript, reactJS, redux, tailwind**
 
 - 📫 How to reach me **jasleenkaurvasir@gmail.com**
 
