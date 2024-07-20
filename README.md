@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jasleen-portfolio.vercel.app/](https://jasleen-portfolio.vercel.app/)
 
-- 💬 Ask me about **html, CSS, javascript, typescript, reactJS, redux, tailwind**
-
 - 📫 How to reach me **jasleenkaurvasir@gmail.com**
 
 - ⚡ Fun fact **I must rather choose photography...**
