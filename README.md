@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 <!-- <h1 align="center"><img alt="Coding" width="400" src="https://camo.githubusercontent.com/0c060afa37cfa1bf8727193f9298b4c75dcb73d7ee29663e43089e17a685a04d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966"></h1> -->
 
-- 👨‍💻 All of my projects are available at [https://jasleen-portfolio.vercel.app/](https://jasleen-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jasleen-portfolio.vercel.app/]([https://jasleen-portfolio.vercel.app/](https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app))
 
 - 📫 How to reach me **jasleenkaurvasir@gmail.com**
 
