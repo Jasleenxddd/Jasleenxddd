@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=7C3AED,4F46E5&text=Jasleen%20Kaur&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
-</p>
-
+<div>
 <p align="center">
   <img src="main.gif" width="180"/>
 </p>
