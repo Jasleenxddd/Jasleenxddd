@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/main.gif" width="180"/>
+<img src="main.gif" width="180"/>
 
 # Hi, I'm Jasleen Kaur 👋
 
