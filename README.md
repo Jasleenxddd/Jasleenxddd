@@ -8,7 +8,6 @@
   <img src="hero-title.svg" width="900">
 </p>
 
-<br>
 
 <samp>
 
