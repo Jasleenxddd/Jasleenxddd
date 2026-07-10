@@ -1,26 +1,28 @@
 <div align="center">
 
-# Hi, I'm Jasleen Kaur 👋
+<img src="main.gif" width="220"/>
 
-### Applied Scientist Intern @ Amazon • Full Stack Developer • AI Engineer
+<h1>Hi, I'm Jasleen Kaur 👋</h1>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer;LLMs+%7C+RAG+%7C+Generative+AI;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
+<h3>
+Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer
+</h3>
 
-<p>
-<a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems;Full+Stack+Developer;Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+Generative+AI"/>
+
+<br>
+
+<a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jasleen-kaur-p/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/jasleen-kaur-p/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jasleenkaurvasir@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 </div>
 ---
