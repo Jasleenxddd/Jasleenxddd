@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="main.gif" width="220"/>
+<img src="main.gif" width="250"/>
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Large+Language+Models+%7C+RAG;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Large+Language+Models+%7C+RAG;Full+Stack+Development;Graph+Neural+Networks;Always+kkk+Something+New"
 />
 
 <br>
