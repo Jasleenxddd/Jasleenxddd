@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Jasleen Kaur
+# Hi, I'm Jasleen Kaur 👋
 
-### Applied Scientist Intern @ Amazon | Full Stack Developer | AI & Machine Learning Enthusiast
+### Applied Scientist Intern @ Amazon • Full Stack Developer • AI Engineer
 
-Building scalable AI systems, modern web applications, and impactful software solutions.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer;LLM+%7C+RAG+%7C+Generative+AI;Always+Learning+🚀"/>
 
 <br>
 
@@ -13,11 +13,11 @@ Building scalable AI systems, modern web applications, and impactful software so
 </a>
 
 <a href="https://www.linkedin.com/in/jasleen-kaur-p/">
-<img src="https://img.shields.io/badge/LinkedIn-Jasleen%20Kaur-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:jasleenkaurvasir@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
