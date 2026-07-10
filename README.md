@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="hero-title.svg" width="900">
+  <img src="hero.svg" width="900">
 </p>
 
 <br>
