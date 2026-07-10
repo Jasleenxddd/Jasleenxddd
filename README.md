@@ -4,11 +4,39 @@
 
 <br>
 
-<h3 align="center">
-<samp>
-&gt; Hey There!, I'm <span style="color:#A855F7"><b>Jasleen Kaur</b></span>
-</samp>
-</h3>
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title{
+font:700 34px "JetBrains Mono","Fira Code","Consolas",monospace;
+}
+.cursor{
+animation:blink 1s infinite;
+}
+
+@keyframes blink{
+0%{opacity:1;}
+50%{opacity:0;}
+100%{opacity:1;}
+}
+</style>
+
+<rect width="900" height="90" fill="transparent"/>
+
+<text x="40" y="58" class="title" fill="#E6EDF3">
+&gt; Hey There!, I'm
+</text>
+
+<text x="470" y="58" class="title" fill="#A855F7">
+Jasleen Kaur
+</text>
+
+<text x="785" y="58" class="title cursor" fill="#A855F7">
+▋
+</text>
+
+</svg>
+
 <br>
 
 <samp>
