@@ -1,17 +1,30 @@
-<div align="center">
-
-<img src="main.gif" width="170"/>
-
-# Hi, I'm Jasleen Kaur 👋
-
-### Applied Scientist Intern @ Amazon • Full Stack Developer • AI Engineer
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Full+Stack+Developer;AI+%7C+LLMs+%7C+RAG;Always+Learning+Something+New" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=7C3AED,4F46E5&text=Jasleen%20Kaur&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<p>
-Building scalable AI systems, modern web applications, and impactful software.
+<p align="center">
+  <img src="main.gif" width="180"/>
+</p>
+
+<h3 align="center">
+<samp>
+
+> Hey There!, I'm
+<b><a href="https://www.linkedin.com/in/jasleen-kaur-p/">Jasleen Kaur</a></b>
+
+</samp>
+</h3>
+
+<p align="center">
+<samp>
+
+「 Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer 」
+
+</samp>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Large+Language+Models;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"/>
 </p>
 
 <a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
