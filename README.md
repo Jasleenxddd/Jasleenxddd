@@ -6,10 +6,9 @@
 
 <h3 align="center">
 <samp>
-&gt; Hey There!, I'm <b>Jasleen Kaur</b>
+&gt; Hey There!, I'm <span style="color:#A855F7"><b>Jasleen Kaur</b></span>
 </samp>
 </h3>
-
 <br>
 
 <samp>
