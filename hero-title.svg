@@ -54,38 +54,15 @@ animation:blink 1s infinite;
 
 <rect width="900" height="85" fill="transparent"/>
 
-<!-- Left part -->
 <text
-x="430"
+x="50%"
 y="55"
-text-anchor="end"
-class="title"
-fill="#E6EDF3">
+text-anchor="middle"
+class="title">
 
-&gt; Hey There!, I'm
-
-</text>
-
-<!-- Name -->
-<text
-x="450"
-y="55"
-text-anchor="start"
-class="title"
-fill="#A855F7">
-
-Jasleen Kaur
-
-</text>
-
-<!-- Cursor -->
-<text
-x="715"
-y="55"
-class="title cursor"
-fill="#A855F7">
-
-▋
+<tspan fill="#E6EDF3">&gt; Hey There!, I'm </tspan>
+<tspan fill="#A855F7">Jasleen Kaur</tspan>
+<tspan class="cursor" fill="#A855F7">▋</tspan>
 
 </text>
 
