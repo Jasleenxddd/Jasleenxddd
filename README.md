@@ -1,11 +1,16 @@
 <div align="center">
 
-<img src="main.gif" width="220"/>
+<img src="assets/main.gif" width="180"/>
 
-<h1>Hi, I'm Jasleen Kaur 👋</h1>
+# Hi, I'm Jasleen Kaur 👋
 
+### Applied Scientist Intern @ Amazon
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems;Full+Stack+Developer;Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+Generative+AI"/>
+### Full Stack Developer • AI Engineer • IIIT Gwalior
+
+<p>
+Building scalable AI systems, modern web applications and production-ready software.
+</p>
 
 <br>
 
