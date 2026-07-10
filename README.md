@@ -4,9 +4,6 @@
 
 <h1>Hi, I'm Jasleen Kaur 👋</h1>
 
-<h3>
-Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer
-</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems;Full+Stack+Developer;Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+Generative+AI"/>
 
