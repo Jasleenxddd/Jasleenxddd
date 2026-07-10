@@ -27,7 +27,7 @@ Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Large+Language+Models;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"
 />
 
-<br><br>
+<br>
 
 <a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
