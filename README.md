@@ -42,7 +42,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=3
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
+---
 
 # 👩🏻‍💻 About Me
 
