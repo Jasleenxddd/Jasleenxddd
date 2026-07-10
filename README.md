@@ -13,14 +13,17 @@
 </samp>
 </h1>
 
-<p>
-<samp>
+<h3 align="center">
 
-Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer
+🔬 Applied Scientist Intern @ Amazon
 
-</samp>
+💻 Full Stack Developer &nbsp;•&nbsp; 🤖 AI Engineer
+
+</h3>
+
+<p align="center">
+Building scalable AI systems, modern web applications, and impactful software.
 </p>
-
 <br>
 
 <img
