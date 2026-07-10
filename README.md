@@ -21,13 +21,13 @@
 
 </samp>
 
-<br><br>
+<br>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Large+Language+Models+%7C+RAG;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"
 />
 
-<br><br>
+<br>
 
 <a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
