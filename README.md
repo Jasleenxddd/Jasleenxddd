@@ -33,19 +33,16 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;
 
 <a href="https://www.linkedin.com/in/jasleen-kaur-p/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
 
 <a href="mailto:jasleenkaurvasir@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
 
 <a href="https://leetcode.com/u/jaslleenkaur/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
