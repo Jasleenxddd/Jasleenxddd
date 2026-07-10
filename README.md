@@ -4,16 +4,11 @@
 
 <br>
 
-<h2>
+<h3 align="center">
 <samp>
-&gt; Hey There!, I'm
-<a href="https://www.linkedin.com/in/jasleen-kaur-p/">
-<p align="center">
-<img src="https://img.shields.io/badge/Jasleen%20Kaur-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-</a>
+&gt; Hey There!, I'm <b>Jasleen Kaur</b>
 </samp>
-</h2>
+</h3>
 
 <br>
 
