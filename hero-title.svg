@@ -21,11 +21,11 @@ animation:blink 1s infinite;
 &gt; Hey There!, I'm
 </text>
 
-<text x="470" y="58" class="title" fill="#A855F7">
+<text x="420" y="58" class="title" fill="#A855F7">
 Jasleen Kaur
 </text>
 
-<text x="785" y="58" class="title cursor" fill="#A855F7">
+<text x="685" y="58" class="title cursor" fill="#A855F7">
 ▋
 </text>
 
