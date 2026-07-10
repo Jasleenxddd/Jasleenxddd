@@ -4,9 +4,11 @@
 
 # Hi, I'm Jasleen Kaur 👋
 
-### Applied Scientist Intern @ Amazon
-
 ### Full Stack Developer • AI Engineer • IIIT Gwalior
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Applied+Scientist+Intern+%40+Amazon;Full+Stack+Developer;AI+%7C+LLMs+%7C+RAG;Building+Scalable+AI+Systems" alt="Typing SVG" />
+</p>
 
 <p>
 Building scalable AI systems, modern web applications and production-ready software.
