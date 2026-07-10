@@ -32,11 +32,12 @@ Jasleen Kaur
 </svg> -->
 
 
-<svg width="900" height="85" viewBox="0 0 900 85" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="85" viewBox="0 0 900 85"
+xmlns="http://www.w3.org/2000/svg">
 
 <style>
 .title{
-font-family:"JetBrains Mono","Fira Code","Consolas",monospace;
+font-family:"JetBrains Mono","Consolas",monospace;
 font-size:30px;
 font-weight:700;
 }
@@ -52,18 +53,22 @@ animation:blink 1s infinite;
 }
 </style>
 
-<rect width="900" height="85" fill="transparent"/>
+<g transform="translate(110,0)">
 
 <text
-x="50%"
+x="340"
 y="55"
 text-anchor="middle"
 class="title">
 
 <tspan fill="#E6EDF3">&gt; Hey There!, I'm </tspan>
+
 <tspan fill="#A855F7">Jasleen Kaur</tspan>
+
 <tspan class="cursor" fill="#A855F7">▋</tspan>
 
 </text>
+
+</g>
 
 </svg>
