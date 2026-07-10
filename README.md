@@ -4,24 +4,25 @@
 
 ### Applied Scientist Intern @ Amazon • Full Stack Developer • AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer;LLM+%7C+RAG+%7C+Generative+AI;Always+Learning+🚀"/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer;LLMs+%7C+RAG+%7C+Generative+AI;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
 
-<br>
-
-<a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-6C63FF?style=for-the-badge"/>
+<p>
+<a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jasleen-kaur-p/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/jasleen-kaur-p/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:jasleenkaurvasir@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+</p>
 
 </div>
-
 ---
 
 # 👩‍💻 About Me
