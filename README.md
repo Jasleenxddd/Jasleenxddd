@@ -1,21 +1,21 @@
 <div>
 <p align="center">
-  <img src="main.gif" width="180"/>
+  <img src="main.gif" width="280"/>
 </p>
 
-<h3 align="center">
+<h1 align="center">
 <samp>
 
 > Hey There!, I'm
 <b><a href="https://www.linkedin.com/in/jasleen-kaur-p/">Jasleen Kaur</a></b>
 
 </samp>
-</h3>
+</h1>
 
 <p align="center">
 <samp>
 
-「 Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer 」
+  Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer 
 
 </samp>
 </p>
