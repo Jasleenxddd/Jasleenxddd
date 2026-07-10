@@ -1,40 +1,51 @@
-<div>
-<p align="center">
-  <img src="main.gif" width="280"/>
-</p>
+<div align="center">
 
-<h1 align="center">
+<img src="main.gif" width="220"/>
+
+<br><br>
+
+<h1>
 <samp>
 
 > Hey There!, I'm
-<b><a href="https://www.linkedin.com/in/jasleen-kaur-p/">Jasleen Kaur</a></b>
+<a href="https://www.linkedin.com/in/jasleen-kaur-p/"><b>Jasleen Kaur</b></a>
 
 </samp>
 </h1>
 
-<p align="center">
+<p>
 <samp>
 
-  Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer 
+Applied Scientist Intern @ Amazon • AI Engineer • Full Stack Developer
 
 </samp>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Large+Language+Models;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"/>
-</p>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Large+Language+Models;Full+Stack+Development;Graph+Neural+Networks;Always+Learning+Something+New"
+/>
+
+<br><br>
 
 <a href="https://portfolio-web-clrc-6vmvr7180-jasleenxddds-projects.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/jasleen-kaur-p/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:jasleenkaurvasir@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://leetcode.com/u/jaslleenkaur/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
